@@ -1,7 +1,7 @@
 <?php
 //salom
 
-//salom-END salom salom
+//salom-END salom salomncjacjadsnfjkosafnjkoasdnosajodnoa
 $yil = 2023;
 $n = 4;
 $butun =intval(($yil-2020)/4);
