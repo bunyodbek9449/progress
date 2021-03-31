@@ -2,7 +2,7 @@
 include_once "db.php";
 class Employees {
     private $db;
-    public function __construct()
+    public function __construcetsrdytcfvygbuhnijkt()
     {
         $this->db = Db::getDb()->conn();
     }
