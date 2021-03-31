@@ -1,5 +1,7 @@
 <?php
+//salom
 
+//salom-END
 $yil = 2023;
 $n = 4;
 $butun =intval(($yil-2020)/4);
